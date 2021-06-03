@@ -1,0 +1,1 @@
+# Configuring-Basic-Router-Settings-with-IOS-CLI-and-IPv6-addressing
